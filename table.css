@@ -1,0 +1,130 @@
+#row-1{
+    font-size: 40px;
+    margin: 10px;
+    padding: 4px;
+
+}
+
+#row-2{
+    font-size: 40px;
+    margin: 10px;
+    padding: 4px;
+}
+
+#row-3{
+    font-size: 40px;
+    margin: 10px;
+    padding: 4px;
+}
+
+#cell-1 {
+    border: black;
+    border-style: solid;
+    border-width: 1px;
+    border-left: none;
+    border-top: none;
+    margin: 1px;
+}
+#cell-1:hover {
+    color: red;
+}
+
+#cell-2 {
+    border: black;
+    border-style: solid;
+    border-width: 1px;
+    border-top: none;
+    margin: 1px;
+}
+
+#cell-2:hover {
+  color: red;
+}
+
+#cell-3 {
+    border: black;
+    border-style: solid;
+    border-width: 1px;
+    border-top: none;
+    border-right: none;
+    margin: 1px;
+}
+
+#cell-3:hover {
+    color: red;
+}
+
+#cell-4 {
+    border: black;
+    border-style: solid;
+    border-width: 1px;
+    border-left: none;
+    margin: 1px;
+}
+
+#cell-4:hover {
+    color: red;
+}
+
+
+#cell-5 {
+    border: black;
+    border-style: solid;
+    border-width: 1px;
+    margin: 1px;
+}
+
+#cell-5:hover {
+    color: red;
+}
+
+#cell-6 {
+    border: black;
+    border-style: solid;
+    border-width: 1px;
+    border-right: none;
+    margin: 1px;
+}
+
+#cell-6:hover {
+    color: red;
+}
+
+#cell-7 {
+    border: black;
+    border-style: solid;
+    border-width: 1px;
+    border-left: none;
+    border-bottom: none;
+    margin: 1px;
+}
+
+#cell-7:hover {
+    color: red;
+}
+
+#cell-8 {
+    border: black;
+    border-style: solid;
+    border-width: 1px;
+    border-bottom: none;
+    margin: 1px;
+}
+
+#cell-8:hover {
+    color: red;
+}
+
+#cell-9 {
+    border: black;
+    border-style: solid;
+    border-width: 1px;
+    border-right: none;
+    border-bottom: none;
+    margin: 1px;
+}
+
+#cell-9:hover {
+    color: red;
+}
+
